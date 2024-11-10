@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DealXtra</string>
+    <string name="app_logo">App Logo</string>
+    <string name="sign_up_title">Join ShopKeeper</string>
+    <string name="sign_up_subtitle">Manage your business with ease</string>
+    <string name="name_hint">Full Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_button">Create Account</string>
+    <string name="or">OR</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="default_web_client_id">163373050008-cruc7r90r0p6j64fbc01nebhov2c4s6r.apps.googleusercontent.com</string>
+    <!-- New strings for login page -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Login to manage your business</string>
+    <string name="login_button">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="no_account">Don\'t have an account?</string>
+
+    <string name="create_shop_title">Create Your Shop</string>
+    <string name="create_shop_subtitle">Let\'s set up your shop profile</string>
+    <string name="shop_name_hint">Shop Name</string>
+    <string name="location_hint">Location</string>
+    <string name="shop_description_hint">Shop Description</string>
+    <string name="shop_image_label">Shop Image</string>
+    <string name="shop_image_description">Shop Image Preview</string>
+    <string name="add_image_button">Add Image</string>
+    <string name="create_shop_button">Create Shop</string>
+    <string name="title_activity_shop_bottom">ShopBottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="description">Description</string>
+    <string name="contact_shop">Contact Shop</string>
+
+    <string name="shop_name">Shop Name</string>
+    <string name="location">Location</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="changes_saved">Changes saved successfully</string>
+    <string name="product_list">Product List</string>
+    <string name="add_product">Add Product</string>
+
+    <string name="filter">Filter</string>
+    <string name="search_products">Search products</string>
+    <string name="filter_products">Filter Products</string>
+    <string name="categories">Categories</string>
+    <string name="subcategories">Subcategories</string>
+    <string name="clear_all">Clear All</string>
+    <string name="apply">Apply</string>
+    <string name="title_activity_customer_main_bottom">CustomerMainBottomActivity</string>
+
+    <string name="menu">Menu</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="cart">Shopping Cart</string>
+
+    <string name="search_hint">Search...</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="trending_searches">Trending Searches</string>
+
+    <string name="no_results_found">No Results Found</string>
+    <string name="try_different_search">Try searching with different keywords</string>
+
+
+    <string name="clear_history_title">Clear Search History</string>
+    <string name="clear_history_message">Are you sure you want to clear your search history?</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="voice_search_prompt">Speak now...</string>
+    <string name="voice_search_not_available">Voice search is not available on this device</string>
+    <string name="product_description">A shirt is a piece of clothing worn on the upper body that usually has a collar, sleeves, and a front opening: \n \nIt can be made of light cloth like cotton \n \nIt can be short-sleeved or long-sleeved \n \nThe tail of a shirt is long enough to be tucked into pants or a skirt \n \nA shirt can also be an undershirt \n \nThe formality of a shirt is primarily indicated by the style of its collar. For example, a wider collar is often called a cutaway or Windsor collar, which is more formal. A button-down collar, also known as a sport collar, has a button-fastening point on the front of the shirt.</string>
+</resources>
